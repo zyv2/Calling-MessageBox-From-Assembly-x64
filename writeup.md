@@ -172,11 +172,11 @@ int main (){
 
 
 This is our shellcode under the debugger
-![](../pics/Pasted%20image%2020260610141424.png)
+![](./pics/Pasted%20image%2020260610141424.png)
 as we can see the hardcoded address for our functions are recognized correctly 
 
 And we get the MsgBox!!!
-![](../pics/Pasted%20image%2020260610141543.png)
+![](./pics/Pasted%20image%2020260610141543.png)
 
 Exited with no errors
-![](../pics/Pasted%20image%2020260610141819.png)
+![](./pics/Pasted%20image%2020260610141819.png)
